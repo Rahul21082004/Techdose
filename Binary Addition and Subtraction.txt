@@ -1,0 +1,10 @@
+Addition:
+   Example:
+       0101_2 + 0011_2 = 1000_2 (5 + 3 = 8)
+
+   Subtraction: Use 2's complement of the number to subtract.
+   Example:
+       0101_2 - 0011_2
+       Convert 3 to 2's complement: 0011 → 1's complement = 1100 → Add 1 = 1101
+       Now, 0101 + 1101 = 10010 (Drop the carry, result = 0010)
+       (5 - 3 = 2)

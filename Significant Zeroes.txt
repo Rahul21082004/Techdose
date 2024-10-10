@@ -1,0 +1,3 @@
+ Significant Zeroes: Zeroes that affect the precision of a number.
+   Example:
+       In 0.005600, the zeroes in 5600

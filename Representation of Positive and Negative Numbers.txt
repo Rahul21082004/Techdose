@@ -1,0 +1,9 @@
+Positive Numbers: Represented directly in binary.
+   Example: +5 in binary (4-bit) is 0101.
+
+Negative Numbers: Represented using 2's complement.
+Example: -5 in binary (4-bit) is 1011.
+   Steps: 
+       5 = 0101 
+       1's complement = 1010 
+       Add 1 = 1011

@@ -1,0 +1,12 @@
+Log Properties
+   Product Rule: 
+       log_b(x * y) = log_b(x) + log_b(y)
+
+   Quotient Rule: 
+       log_b(x / y) = log_b(x) - log_b(y)
+
+   Power Rule: 
+       log_b(x^n) = n * log_b(x)
+
+   Change of Base Rule: 
+       log_b(x) = log_c(x) / log_c(b)

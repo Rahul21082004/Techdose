@@ -1,0 +1,2 @@
+1's Complement: Flip all bits.
+2's Complement: 1's complement + 1.

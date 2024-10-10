@@ -1,0 +1,11 @@
+a. (1012) base 2 
+
+Answer: Invalid binary number.
+
+b. (237) base 8 
+
+Answer: 10011111 base 2
+
+c. (535) base 9 
+
+Answer: 437 base 10

@@ -1,0 +1,5 @@
+Leading Zeroes: Zeroes before the first 1 in a binary number.
+   Example: 00001010_2 has 4 leading zeroes.
+
+   Trailing Zeroes: Zeroes after the last 1 in a binary number.
+   Example: 101000_2 has 3 trailing zeroes.
